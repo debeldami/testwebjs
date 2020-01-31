@@ -15,8 +15,7 @@ if(num1 > num2){
 
 var dice1 = "images/dice"+num1+".png";
 var dice2 = "images/dice"+num2+".png";
-console.log(dice1);
-console.log(dice2);
+
 
 img1.setAttribute("src",dice1);
 img2.setAttribute("src",dice2);
